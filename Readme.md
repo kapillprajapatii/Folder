@@ -1,7 +1,4 @@
 # Practice
 This is my Practies question
 
-
-#hrlekknekn
-#kjffheb
-#h
+hello world in git
